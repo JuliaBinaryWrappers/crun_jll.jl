@@ -1,0 +1,56 @@
+[[crun]]
+arch = "aarch64"
+git-tree-sha1 = "a3dd68954f6e7e11dc886368817afb3d95921f95"
+libc = "glibc"
+os = "linux"
+
+    [[crun.download]]
+    sha256 = "168571caabe77fc815a016b5dd0f25996e01eaaffdafdc33383fc6554a878aef"
+    url = "https://github.com/JuliaBinaryWrappers/crun_jll.jl/releases/download/crun-v1.7.1+0/crun.v1.7.1.aarch64-linux-gnu.tar.gz"
+[[crun]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "3d8d96cafd1d2408b1eae8dd7f6926a1a8ed78ca"
+libc = "glibc"
+os = "linux"
+
+    [[crun.download]]
+    sha256 = "454e2cdf54c986e445fcb79df3e4621861ff02ffe527bb3cb22cd1b1fbc6d6df"
+    url = "https://github.com/JuliaBinaryWrappers/crun_jll.jl/releases/download/crun-v1.7.1+0/crun.v1.7.1.armv6l-linux-gnueabihf.tar.gz"
+[[crun]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "456edd8d0c63d1b4bd038841798d07db985f7179"
+libc = "glibc"
+os = "linux"
+
+    [[crun.download]]
+    sha256 = "bfc4b9d18e6bc0efb21fbfd2e3149073977f6ea5e86bf174d39a035c287b23ec"
+    url = "https://github.com/JuliaBinaryWrappers/crun_jll.jl/releases/download/crun-v1.7.1+0/crun.v1.7.1.armv7l-linux-gnueabihf.tar.gz"
+[[crun]]
+arch = "i686"
+git-tree-sha1 = "388adb1e512d8c93073186012773ac4f9a7e9173"
+libc = "glibc"
+os = "linux"
+
+    [[crun.download]]
+    sha256 = "015b7b1191700157e2336b49effeda93f7bc4ed9c08240f6f4d06cd468821d76"
+    url = "https://github.com/JuliaBinaryWrappers/crun_jll.jl/releases/download/crun-v1.7.1+0/crun.v1.7.1.i686-linux-gnu.tar.gz"
+[[crun]]
+arch = "powerpc64le"
+git-tree-sha1 = "0a919e806dd314b2e6bb0301278e69daa6c904c9"
+libc = "glibc"
+os = "linux"
+
+    [[crun.download]]
+    sha256 = "6e85affa966892d2411be0d4655124bfd530c8f780103c85afbc4d3961eefc91"
+    url = "https://github.com/JuliaBinaryWrappers/crun_jll.jl/releases/download/crun-v1.7.1+0/crun.v1.7.1.powerpc64le-linux-gnu.tar.gz"
+[[crun]]
+arch = "x86_64"
+git-tree-sha1 = "682a441bd76a9926b58816127b0085eed6e26604"
+libc = "glibc"
+os = "linux"
+
+    [[crun.download]]
+    sha256 = "9b31b9856f2edb688556cbfddce26e53fe86f8edf1aa3e0d62b751f89c571ea1"
+    url = "https://github.com/JuliaBinaryWrappers/crun_jll.jl/releases/download/crun-v1.7.1+0/crun.v1.7.1.x86_64-linux-gnu.tar.gz"
