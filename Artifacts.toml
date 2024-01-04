@@ -1,56 +1,56 @@
 [[crun]]
 arch = "aarch64"
-git-tree-sha1 = "bc92072ebf43c34b0c4b36a66a5c22c452ff49e4"
+git-tree-sha1 = "96d3737796f1169f78f4958469767b08540798e7"
 libc = "glibc"
 os = "linux"
 
     [[crun.download]]
-    sha256 = "4a251c904fd83e6682172acd5afd5e882e2f5f9f0ebef684115fe9eb2ff78a0e"
-    url = "https://github.com/JuliaBinaryWrappers/crun_jll.jl/releases/download/crun-v1.12.0+0/crun.v1.12.0.aarch64-linux-gnu.tar.gz"
+    sha256 = "cfbc8657a998c7a6f31dbebb55d1cc363b4f539f1eb4fdc0dd566a710f326a62"
+    url = "https://github.com/JuliaBinaryWrappers/crun_jll.jl/releases/download/crun-v1.12.0+1/crun.v1.12.0.aarch64-linux-gnu.tar.gz"
 [[crun]]
 arch = "armv6l"
 call_abi = "eabihf"
-git-tree-sha1 = "af70c18426f16bd2c566f85f247a1ccac3da16c5"
+git-tree-sha1 = "a6d5c58a90925998da24236250cf91301ea12363"
 libc = "glibc"
 os = "linux"
 
     [[crun.download]]
-    sha256 = "ac3e518774f33a6ce5335d1572626e4968c576a7afd72bdb10af96b4b7090652"
-    url = "https://github.com/JuliaBinaryWrappers/crun_jll.jl/releases/download/crun-v1.12.0+0/crun.v1.12.0.armv6l-linux-gnueabihf.tar.gz"
+    sha256 = "ed1a1f032d05340a148a245961510136b9064758d30b2983cd2d2452a937a555"
+    url = "https://github.com/JuliaBinaryWrappers/crun_jll.jl/releases/download/crun-v1.12.0+1/crun.v1.12.0.armv6l-linux-gnueabihf.tar.gz"
 [[crun]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "31adf0f9b9cacdf34bc1658c93ac46041f51f87c"
+git-tree-sha1 = "13c428acb8920875bb2b2c3c9f937e0ef6db9ff0"
 libc = "glibc"
 os = "linux"
 
     [[crun.download]]
-    sha256 = "fe4342787af620ed81d42f797cdfb288d2bbcae79853777837582a70528c594e"
-    url = "https://github.com/JuliaBinaryWrappers/crun_jll.jl/releases/download/crun-v1.12.0+0/crun.v1.12.0.armv7l-linux-gnueabihf.tar.gz"
+    sha256 = "60160430fe4c5a57936c0f70d656385a136c42fd0ab67ed46e010bbac1ca30e6"
+    url = "https://github.com/JuliaBinaryWrappers/crun_jll.jl/releases/download/crun-v1.12.0+1/crun.v1.12.0.armv7l-linux-gnueabihf.tar.gz"
 [[crun]]
 arch = "i686"
-git-tree-sha1 = "ef0c9a9b8f21c6619d14930a5bf6fd81510e497e"
+git-tree-sha1 = "902125cc3538278a55d99eed80e7ab8e407207d8"
 libc = "glibc"
 os = "linux"
 
     [[crun.download]]
-    sha256 = "3661827bc758fc61114280d6587b35a92787c2a3164c7e014654179d79aa676f"
-    url = "https://github.com/JuliaBinaryWrappers/crun_jll.jl/releases/download/crun-v1.12.0+0/crun.v1.12.0.i686-linux-gnu.tar.gz"
+    sha256 = "4d897a7c025fbdbcdb76daa70afd32ea1db60b01e1572c62aedf2b32ab80f8da"
+    url = "https://github.com/JuliaBinaryWrappers/crun_jll.jl/releases/download/crun-v1.12.0+1/crun.v1.12.0.i686-linux-gnu.tar.gz"
 [[crun]]
 arch = "powerpc64le"
-git-tree-sha1 = "ba7d70efb4e3187c13f73e6605c095a1261ae832"
+git-tree-sha1 = "1b9446d00899732dbd5f1e4e17caff60cdf7cdc9"
 libc = "glibc"
 os = "linux"
 
     [[crun.download]]
-    sha256 = "9fe5f39050f42b2aa7b254722a66d5fe5165f04720a532f91ad72f13d3dbc8b9"
-    url = "https://github.com/JuliaBinaryWrappers/crun_jll.jl/releases/download/crun-v1.12.0+0/crun.v1.12.0.powerpc64le-linux-gnu.tar.gz"
+    sha256 = "020b1c67f5d07e62647df3a60b2e282983881ffcd1edbb33d34588e453ca1407"
+    url = "https://github.com/JuliaBinaryWrappers/crun_jll.jl/releases/download/crun-v1.12.0+1/crun.v1.12.0.powerpc64le-linux-gnu.tar.gz"
 [[crun]]
 arch = "x86_64"
-git-tree-sha1 = "8a5cef86ca7198d2bd6801bee21f66e3be61c4c9"
+git-tree-sha1 = "3ceac9b3ac0dccf436e8a6f39cc2e372386d8127"
 libc = "glibc"
 os = "linux"
 
     [[crun.download]]
-    sha256 = "b8f4f533a912055baea5f9f15ad17fca2fbe34040b5475a5912b60df2d2dfd3d"
-    url = "https://github.com/JuliaBinaryWrappers/crun_jll.jl/releases/download/crun-v1.12.0+0/crun.v1.12.0.x86_64-linux-gnu.tar.gz"
+    sha256 = "3cb2427eea69b6e575b346b34b83e3cfeab4c1a7ff931b3ea13312e81e18581f"
+    url = "https://github.com/JuliaBinaryWrappers/crun_jll.jl/releases/download/crun-v1.12.0+1/crun.v1.12.0.x86_64-linux-gnu.tar.gz"
